@@ -1,0 +1,3 @@
+wordtest.c, 字符数：10
+wordtest.c, 单词数：2
+wordtest.c, 行数：1
