@@ -101,7 +101,7 @@ public class wordCount
 					String courseFile = sfile.getCanonicalPath();
 					sfile = new File(courseFile);
 					getFiles(sfile,args);
-					System.out.println("11");
+					//System.out.println("11");
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
